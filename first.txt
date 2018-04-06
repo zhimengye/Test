@@ -1,2 +1,2 @@
 This is a first txt file.
--continue.
+continue.
